@@ -1,31 +1,33 @@
 {
-  "pool": 50000000,
+  "pool": 50000000000000,
+  "liquidity": 552659276,
+  "reward": 393537671,
   "weeks": 104,
   "tiers": [
     {
-      "threshold": 800,
+      "threshold": 800000000,
       "share": 5,
-      "limit": 2500
+      "limit": 2500000000
     },
     {
-      "threshold": 1500,
+      "threshold": 1500000000,
       "share": 11,
-      "limit": 5000
+      "limit": 5000000000
     },
     {
-      "threshold": 3000,
+      "threshold": 3000000000,
       "share": 21,
-      "limit": 10000
+      "limit": 10000000000
     },
     {
-      "threshold": 5000,
+      "threshold": 5000000000,
       "share": 28,
-      "limit": 21000
+      "limit": 21000000000
     },
     {
-      "threshold": 8500,
+      "threshold": 8500000000,
       "share": 35,
-      "limit": 30000
+      "limit": 30000000000
     }
   ]
 }
